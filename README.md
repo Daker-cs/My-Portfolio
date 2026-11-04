@@ -24,8 +24,8 @@ Staff member on 100+ Discord servers, with leadership experience from helper thr
 
 | Community | Highest Position | All Positions Held | Status |
 |---|---|---|---|
-| The Trusted Community (TTC) | CEO | CEO, Owner, President, Developer | Currently Staff |
-| Flames Paradise | Owner | Owner | Handed over |
+| The Trusted Community (TTC) | CEO | CEO, Owner, President, Developer | Active|
+| Flames Paradise | Owner | Owner | Shutdown |
 | GGS | Co-Owner | Co-Owner, Manager, Administrator, Moderator, Helper | Retired |
 | Grinders Paradise | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
 | BetterAntispam | Support Manager | Support Manager, Marketing Manager, Senior Support, Support , Administrator | Retired |
