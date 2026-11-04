@@ -1,4 +1,3 @@
-# My-Portfolio
 # Hey, I'm Jake! 👋
 
 Community leader and aspiring cybersecurity professional, building safer online spaces and learning to code.
