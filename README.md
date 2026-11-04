@@ -14,32 +14,45 @@ Outside of tech, I love languages (especially Spanish) and all kinds of music, p
 
 ## What I'm Working On
 
-- **The Trusted Community (TTC)**: CEO, Owner, Developer and President. An online safety and trust community that investigates safety concerns and helps protect Discord users and servers.
+- **The Trusted Community (TTC)**: Currently Holding the position as CEO. 
+An online safety and trust community that investigates safety concerns and helps protect Discord users and servers.
 - **Learning to code**: building my programming skills and exploring cybersecurity.
 
 ## Experience
 
-| Community | Role | Status |
-|---|---|---|
-| The Trusted Community (TTC) | CEO, Owner, Developer, President | Current |
-| BetterAntispam (Discord security bot) | Support Manager, Marketing Manager, Senior Support, Administrator | Former |
-| Grinders Paradise (Minecraft server) | Manager, Senior Administrator, Administrator, Moderator, Helper | Former |
-| GGS (Minecraft server) | Co-Owner, Manager, Administrator, Moderator, Helper | Former |
-| Norax (YouTube organization) | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Former |
-| Mettalstate (Minecraft event server) | Helper | Former |
-| Fave | Junior Administrator, Administrator | Former |
-| Flames Paradise | Owner | Former |
-| Worldwide | Trial Moderator | Former |
+Staff member on 100+ Discord servers, with leadership experience from helper through to owner. A few Highlights below.
+
+| Community | Highest Position | All Positions Held | Status |
+|---|---|---|---|
+| The Trusted Community (TTC) | CEO | CEO, Owner, President, Developer | Currently Staff |
+| Flames Paradise | Owner | Owner | Handed over |
+| GGS | Co-Owner | Co-Owner, Manager, Administrator, Moderator, Helper | Retired |
+| Grinders Paradise | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
+| BetterAntispam | Support Manager | Support Manager, Marketing Manager, Senior Support, Support , Administrator | Retired |
+| Norax | Head Moderator | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Retired |
+| Fave | Junior Administrator | Junior Administrator | Moderator | Retired|
+| Mettalstate | Helper | Helper | Retired |
+| Worldwide | Trial Moderator | Trial Moderator | Retired |
+| Carlos's Hangout | Owner | Manager, Administrator, Moderator | Retired |
+
+...plus many more communities.
 
 ## Skills
 
-**Community Management:** community leadership, staff management and recruitment, community engagement, server administration
+**Community Management:** 
+community leadership, staff management and recruitment, community engagement, server administration
 
-**Moderation & Safety:** moderation management, user investigations, Discord security, anti-spam and anti-raid systems, community safety
+**Discord:** 
+server setup and administration, roles and permissions, bot configuration, moderation tools, ticket systems, Discord security, anti-spam and anti-raid protection
 
-**Support & Communication:** customer support, ticket management, problem-solving, team communication, conflict resolution
+**Moderation & Safety:** 
+moderation management, user investigations, blacklisting, Discord security, anti-spam and anti-raid systems, community safety
 
-**Development & Tech:** learning programming, interested in software development and cybersecurity, technical problem-solving
+**Support & Communication:** 
+customer support, ticket management, problem-solving, team communication, conflict resolution
+
+**Development & Tech:** 
+learning programming, interested in software development and cybersecurity, technical problem-solving
 
 ## Goals
 
@@ -51,4 +64,6 @@ Outside of tech, I love languages (especially Spanish) and all kinds of music, p
 
 ## Contact
 
-Reach out on Discord (`timelessglowing`) about community management, support, collaboration or general questions.
+Reach out on Discord about community management, support, collaboration or general questions.
+
+**Discord:** [timelessglowing](https://discord.com/users/1284837972897828864)
