@@ -30,7 +30,7 @@ Staff member on 100+ Discord servers, with leadership experience from helper thr
 | Grinders Paradise | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
 | BetterAntispam | Support Manager | Support Manager, Marketing Manager, Senior Support, Support , Administrator | Retired |
 | Norax | Head Moderator | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Retired |
-| Fave | Junior Administrator | Junior Administrator | Moderator | Retired|
+| Fave | Junior Administrator | Junior Administrator, Moderator, Helper | Retired|
 | Mettalstate | Helper | Helper | Retired |
 | Worldwide | Trial Moderator | Trial Moderator | Retired |
 | Carlos's Hangout | Owner | Manager, Administrator, Moderator | Retired |
