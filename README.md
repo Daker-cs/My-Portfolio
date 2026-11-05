@@ -22,18 +22,18 @@ An online safety and trust community that investigates safety concerns and helps
 
 Staff member on 100+ Discord servers, with leadership experience from helper through to owner. A few Highlights below.
 
-| Community | Highest Position | All Positions Held | Status |
+| Community | Count | Highest Position | All Positions Held | Status |
 |---|---|---|---|
-| The Trusted Community (TTC) | CEO | CEO, Owner, President, Developer | Active|
-| Flames Paradise | Owner | Owner | Shutdown |
-| GGS | Co-Owner | Co-Owner, Manager, Administrator, Moderator, Helper | Retired |
-| Grinders Paradise | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
-| BetterAntispam | Support Manager | Support Manager, Marketing Manager, Senior Support, Support , Administrator | Retired |
-| Norax | Head Moderator | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Retired |
-| Fave | Junior Administrator | Junior Administrator, Moderator, Helper | Retired|
-| Mettalstate | Helper | Helper | Retired |
-| Worldwide | Trial Moderator | Trial Moderator | Retired |
-| Carlos's Hangout | Owner | Manager, Administrator, Moderator | Retired |
+| The Trusted Community (TTC) | 100+ | CEO | CEO, Owner, President, Developer | Active|
+| Flames Paradise | 500+ | | Owner | Owner | Shutdown |
+| GGS | Co-Owner | 30+ | Co-Owner, Manager, Administrator, Moderator, Helper | Retired |
+| Grinders Paradise | Manager | 2k+ | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
+| BetterAntispam | Support Manager | 600+ | Support Manager, Marketing Manager, Senior Support, Support , Administrator | Retired |
+| Norax | Head Moderator | 1.3k+ | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Retired |
+| Fave | Junior Administrator | 7k+ | Junior Administrator, Moderator, Helper | Retired|
+| Mettalstate | Helper | 100k+| Helper | Retired |
+| Worldwide | Trial Moderator | 65k+ | Trial Moderator | Retired |
+| Carlos's Hangout | Owner | 300+ | Manager, Administrator, Moderator | Retired |
 
 ...plus many more communities.
 
