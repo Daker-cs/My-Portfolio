@@ -1,24 +1,22 @@
-# Hey, I'm Jake! 👋
+# Hey, I'm Jake!
 
 Community leader and aspiring cybersecurity professional, building safer online spaces and learning to code.
 
 ## About Me
 
-I enjoy working with online communities, meeting new people and helping create welcoming, safe environments. I'm currently learning to code and working toward my goal of becoming a cybersecurity professional.
+I enjoy meeting new people and helping build welcoming, secure online spaces. I'm now learning to code, with the goal of becoming a cybersecurity professional.
 
 Outside of tech, I love languages (especially Spanish) and all kinds of music, particularly BoyWithUke.
 
-- 🌍 Europe (UTC+2)
-- 🎯 Goal: become a cybersecurity professional
-- 💬 Discord: `timelessglowing`
+- **Location:** Europe (UTC+2)
+- **Goal:** Become a cybersecurity professional
+- **Discord:** [timelessglowing](https://discord.com/users/1284837972897828864)
 
 ## What I'm Working On
 
-- **The Trusted Community (TTC)**: Currently Holding the position as CEO. 
-An online safety and trust community that investigates safety concerns and helps protect Discord users and servers.
-- **Learning to code**: building my programming skills and exploring cybersecurity.
+- **The Trusted Community (TTC):** Currently CEO of an online safety and trust community that investigates safety concerns and helps protect Discord users and servers.
+- **Learning to code:** Building my programming skills and exploring cybersecurity.
 
-## Experience
 ## Experience
 
 Staff member on 100+ Discord servers, with leadership experience from helper through to owner. A few highlights below.
@@ -27,7 +25,7 @@ Staff member on 100+ Discord servers, with leadership experience from helper thr
 |---|---|---|---|---|
 | The Trusted Community (TTC) | 100+ | CEO | CEO, Owner, President, Developer | Active |
 | Flames Paradise | 500+ | Owner | Owner | Shutdown |
-| Carlos's Hangout | 300+ | Owner | Manager, Administrator, Moderator | Retired |
+| Carlos's Hangout | 300+ | Owner | Owner, Manager, Administrator, Moderator | Retired |
 | GGS | 30+ | Co-Owner | Co-Owner, Manager, Administrator, Moderator, Helper | Retired |
 | Grinders Paradise | 2k+ | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
 | BetterAntispam | 600+ | Support Manager | Support Manager, Marketing Manager, Senior Support, Support, Administrator | Retired |
@@ -40,20 +38,15 @@ Staff member on 100+ Discord servers, with leadership experience from helper thr
 
 ## Skills
 
-**Community Management:** 
-community leadership, staff management and recruitment, community engagement, server administration
+**Community Management:** community leadership, staff management and recruitment, community engagement, server administration
 
-**Discord:** 
-server setup and administration, roles and permissions, bot configuration, moderation tools, ticket systems, Discord security, anti-spam and anti-raid protection
+**Discord:** server setup, roles and permissions, bot configuration, moderation tools, ticket systems
 
-**Moderation & Safety:** 
-moderation management, user investigations, blacklisting, Discord security, anti-spam and anti-raid systems, community safety
+**Moderation & Safety:** moderation management, user investigations, blacklisting, anti-spam and anti-raid systems, Discord security, community safety
 
-**Support & Communication:** 
-customer support, ticket management, problem-solving, team communication, conflict resolution
+**Support & Communication:** customer support, ticket management, problem-solving, team communication, conflict resolution
 
-**Development & Tech:** 
-learning programming, interested in software development and cybersecurity, technical problem-solving
+**Development & Tech:** learning programming, software development, cybersecurity, technical problem-solving
 
 ## Goals
 
