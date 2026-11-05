@@ -19,21 +19,22 @@ An online safety and trust community that investigates safety concerns and helps
 - **Learning to code**: building my programming skills and exploring cybersecurity.
 
 ## Experience
+## Experience
 
-Staff member on 100+ Discord servers, with leadership experience from helper through to owner. A few Highlights below.
+Staff member on 100+ Discord servers, with leadership experience from helper through to owner. A few highlights below.
 
-| Community | Count | Highest Position | All Positions Held | Status |
-|---|---|---|---|
-| The Trusted Community (TTC) | 100+ | CEO | CEO, Owner, President, Developer | Active|
-| Flames Paradise | 500+ | | Owner | Owner | Shutdown |
-| GGS | Co-Owner | 30+ | Co-Owner, Manager, Administrator, Moderator, Helper | Retired |
-| Grinders Paradise | Manager | 2k+ | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
-| BetterAntispam | Support Manager | 600+ | Support Manager, Marketing Manager, Senior Support, Support , Administrator | Retired |
-| Norax | Head Moderator | 1.3k+ | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Retired |
-| Fave | Junior Administrator | 7k+ | Junior Administrator, Moderator, Helper | Retired|
-| Mettalstate | Helper | 100k+| Helper | Retired |
-| Worldwide | Trial Moderator | 65k+ | Trial Moderator | Retired |
-| Carlos's Hangout | Owner | 300+ | Manager, Administrator, Moderator | Retired |
+| Community | Members | Highest Position | All Positions Held | Status |
+|---|---|---|---|---|
+| The Trusted Community (TTC) | 100+ | CEO | CEO, Owner, President, Developer | Active |
+| Flames Paradise | 500+ | Owner | Owner | Shutdown |
+| Carlos's Hangout | 300+ | Owner | Manager, Administrator, Moderator | Retired |
+| GGS | 30+ | Co-Owner | Co-Owner, Manager, Administrator, Moderator, Helper | Retired |
+| Grinders Paradise | 2k+ | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
+| BetterAntispam | 600+ | Support Manager | Support Manager, Marketing Manager, Senior Support, Support, Administrator | Retired |
+| Norax | 1.3k+ | Head Moderator | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Retired |
+| Fave | 7k+ | Junior Administrator | Junior Administrator, Moderator, Helper | Retired |
+| Mettalstate | 100k+ | Helper | Helper | Retired |
+| Worldwide | 65k+ | Trial Moderator | Trial Moderator | Retired |
 
 ...plus many more communities.
 
