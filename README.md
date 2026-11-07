@@ -10,7 +10,6 @@ Outside of tech, I love languages (especially Spanish) and all kinds of music, p
 
 - **Location:** Europe (UTC+2)
 - **Goal:** Become a cybersecurity professional
-- **Discord:** [timelessglowing](https://discord.com/users/1284837972897828864)
 
 ## What I'm Working On
 
@@ -60,4 +59,3 @@ Staff member on 100+ Discord servers, with leadership experience from helper thr
 
 Reach out on Discord about community management, support, collaboration or general questions.
 
-**Discord:** [timelessglowing](https://discord.com/users/1284837972897828864)
