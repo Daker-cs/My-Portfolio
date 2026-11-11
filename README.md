@@ -32,6 +32,7 @@ Staff member on 100+ Discord servers, with leadership experience from helper thr
 | Fave | 7k+ | Junior Administrator | Junior Administrator, Moderator, Helper | Retired |
 | Mettalstate | 100k+ | Helper | Helper | Retired |
 | Worldwide | 65k+ | Trial Moderator | Trial Moderator | Retired |
+| Roberfy | 30+ | Moderator | Moderator | Retired |
 
 ...plus many more communities.
 
