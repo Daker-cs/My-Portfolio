@@ -22,17 +22,18 @@ Staff member on 100+ Discord servers, with leadership experience from helper thr
 
 | Community | Members | Highest Position | All Positions Held | Status |
 |---|---|---|---|---|
-| The Trusted Community (TTC) | 100+ | CEO | CEO, Owner, President, Developer | Active |
+| The Trusted Community (TTC) | 40+ | CEO | CEO, Owner, President, Developer | Active |
 | Flames Paradise | 500+ | Owner | Owner | Shutdown |
 | Carlos's Hangout | 300+ | Owner | Owner, Manager, Administrator, Moderator | Retired |
 | GGS | 30+ | Co-Owner | Co-Owner, Manager, Administrator, Moderator, Helper | Retired |
 | Grinders Paradise | 2k+ | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
-| BetterAntispam | 600+ | Support Manager | Support Manager, Marketing Manager, Senior Support, Support, Administrator | Retired |
+| BetterAntispam | 800+ | Support Manager | Support Manager, Marketing Manager, Senior Support, Support, Administrator | Retired |
 | Norax | 1.3k+ | Head Moderator | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Retired |
 | Fave | 7k+ | Junior Administrator | Junior Administrator, Moderator, Helper | Retired |
 | Mettalstate | 100k+ | Helper | Helper | Retired |
 | Worldwide | 65k+ | Trial Moderator | Trial Moderator | Retired |
 | Roberfy | 30+ | Moderator | Moderator | Retired |
+| MNet | 40+ | Manager | Manager | Retired |
 
 ...plus many more communities.
 
