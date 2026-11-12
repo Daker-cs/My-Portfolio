@@ -6,7 +6,7 @@ Community leader and aspiring cybersecurity professional, building safer online 
 
 I enjoy meeting new people and helping build welcoming, secure online spaces. I'm now learning to code, with the goal of becoming a cybersecurity professional.
 
-Outside of tech, I love languages (especially Spanish) and all kinds of music, particularly BoyWithUke.
+Outside of tech, I’m endlessly curious about space. I love looking up at the stars and thinking about how much is out there that we still don’t understand. I’m also passionate about languages, Spanish most of all, and I’m always practising and learning new phrases. Music is a big part of my day, and BoyWithUke is the artist I come back to most. I’m a quiet person who tends to listen more than I talk, and I’d rather stay up late exploring something I enjoy than go to sleep. What I care about most is helping people who need it, whether that’s someone struggling in a community or someone who just needs a friendly voice.
 
 - **Location:** Europe (UTC+2)
 - **Goal:** Become a cybersecurity professional
