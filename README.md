@@ -20,8 +20,6 @@ Outside of tech, I’m endlessly curious about space. I love looking up at the s
 
 Staff member on 100+ Discord servers, with leadership experience from helper through to owner. A few highlights below.
 
-Swapped the two rows, so The Trusted Community (TTC) now sits where AquaGN was and AquaGN is in TTC's old spot.
-
 | Community | Members | Highest Position | All Positions Held | Status |
 |---|---|---|---|---|
 | Mettalstate | 100k+ | Helper | Helper | Retired |
