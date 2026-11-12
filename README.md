@@ -27,7 +27,7 @@ Staff member on 100+ Discord servers, with leadership experience from helper thr
 | Fave | 7k+ | Junior Administrator | Junior Administrator, Moderator, Helper | Retired |
 | Grinders Paradise | 2k+ | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
 | Norax | 1.3k+ | Head Moderator | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Retired |
-| BetterAntispam | 800+ | Support Manager | Support Manager, Marketing Manager, Senior Support, Support, Administrator | Retired |
+| Removed | Unknown | Unknown | Unknown | Left because of predatory behaviour. |
 | Flames Paradise | 500+ | Owner | Owner | Shutdown |
 | Carlos's Hangout | 300+ | Owner | Owner, Manager, Administrator, Moderator | Retired |
 | The Trusted Community (TTC) | 40+ | CEO | CEO, Owner, President, Developer | Active |
