@@ -6,7 +6,7 @@ Community leader and aspiring cybersecurity professional, building safer online 
 
 I enjoy meeting new people and helping build welcoming, secure online spaces. I'm now learning to code, with the goal of becoming a cybersecurity professional.
 
-Outside of tech, I’m endlessly curious about space. I love looking up at the stars and thinking about how much is out there that we still don’t understand. I’m also passionate about languages, Spanish most of all, and I’m always practising and learning new phrases. Music is a big part of my day, and BoyWithUke is the artist I come back to most. I’m a quiet person who tends to listen more than I talk, and I’d rather stay up late exploring something I enjoy than go to sleep. What I care about most is helping people who need it, whether that’s someone struggling in a community or someone who just needs a friendly voice.
+Outside of tech, I'm endlessly curious about space. I love looking up at the stars and thinking about how much is out there that we still don't understand. I'm also passionate about languages, Spanish most of all, and I'm always practising and learning new phrases. Music is a big part of my day, and BoyWithUke is the artist I come back to most. I'm a quiet person who tends to listen more than I talk, and I'd rather stay up late exploring something I enjoy than go to sleep. What I care about most is helping people who need it, whether that's someone struggling in a community or someone who just needs a friendly voice.
 
 - **Location:** Europe (UTC+2)
 - **Goal:** Become a cybersecurity professional
@@ -20,21 +20,23 @@ Outside of tech, I’m endlessly curious about space. I love looking up at the s
 
 Staff member on 100+ Discord servers, with leadership experience from helper through to owner. A few highlights below.
 
-| Community | Members | Highest Position | All Positions Held | Status |
-|---|---|---|---|---|
-| Mettalstate | 100k+ | Helper | Helper | Retired |
-| Worldwide | 65k+ | Trial Moderator | Trial Moderator | Retired |
-| Fave | 7k+ | Junior Administrator | Junior Administrator, Moderator, Helper | Retired |
-| Grinders Paradise | 2k+ | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Retired |
-| Norax | 1.3k+ | Head Moderator | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Retired |
-| Removed | Unknown | Unknown | Unknown | Departed after being personally targeted by a female individual engaging in predatory behaviour. |
-| Flames Paradise | 500+ | Owner | Owner | Shutdown |
-| Carlos's Hangout | 300+ | Owner | Owner, Manager, Administrator, Moderator | Retired |
-| The Trusted Community (TTC) | 40+ | CEO | CEO, Owner, President, Developer | Active |
-| AquaGN | 100+ | Moderator | Moderator | Active |
-| MNet | 40+ | Manager | Manager | Retired |
-| Roberfy | 30+ | Moderator | Moderator | Retired |
-| GGS | 30+ | Co-Owner | Co-Owner, Manager, Administrator, Moderator, Helper | Retired |
+I'm currently focusing on leading The Trusted Community and on my cybersecurity studies.
+
+| Community | Members | Highest Position | All Positions Held | Status | Left |
+|---|---|---|---|---|---|
+| Mettalstate | 100k+ | Helper | Helper | Retired | 2024/2025 |
+| Worldwide | 65k+ | Trial Moderator | Trial Moderator | Retired | 2026 |
+| Fave | 7k+ | Junior Administrator | Junior Administrator, Moderator, Helper | Retired | 2026 |
+| Undisclosed | 2k+ | Manager | Manager, Senior Administrator, Administrator, Moderator, Helper | Left for personal safety reasons | 2025 |
+| Undisclosed | 1.3k+ | Head Moderator | Head Moderator, Senior Moderator, Moderator, Trial Moderator | Left for personal safety reasons | 2026 |
+| Undisclosed | Unknown | Unknown | Unknown | Left for personal safety reasons | 2026 |
+| Flames Paradise | 500+ | Owner | Owner | Shut down | 2024 |
+| Undisclosed | 300+ | Owner | Owner, Manager, Administrator, Moderator | Left for personal safety reasons | 2025 |
+| **The Trusted Community (TTC)** | 40+ | CEO | CEO, Owner, President, Developer | Active | n/a |
+| AquaGN | 100+ | Moderator | Moderator | Retired | Nov 2026 |
+| MNet | 40+ | Manager | Manager | Retired | Nov 2026 |
+| Roberfy | 30+ | Moderator | Moderator | Retired | Nov 2026 |
+| GGS | 30+ | Co-Owner | Co-Owner, Manager, Administrator, Moderator, Helper | Retired | 2026 |
 
 ...plus many more communities.
 
