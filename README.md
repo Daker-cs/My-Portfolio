@@ -32,7 +32,7 @@ I'm currently focusing on leading The Trusted Community and on my cybersecurity 
 | Undisclosed | Unknown | Unknown | Unknown | Left for personal safety reasons | 2026 |
 | Flames Paradise | 500+ | Owner | Owner | Shut down | 2024 |
 | Undisclosed | 300+ | Owner | Owner, Manager, Administrator, Moderator | Left for personal safety reasons | 2025 |
-| **The Trusted Community (TTC)** | 40+ | CEO | CEO, Owner, President, Developer | Active | n/a |
+| **The Trusted Community (TTC)** | 40+ | CEO | CEO, Owner, President, Developer | Retired | Nov 2026 |
 | AquaGN | 100+ | Moderator | Moderator | Retired | Nov 2026 |
 | MNet | 40+ | Manager | Manager | Retired | Nov 2026 |
 | Roberfy | 30+ | Moderator | Moderator | Retired | Nov 2026 |
